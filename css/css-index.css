@@ -1,0 +1,121 @@
+#profile
+{
+	background-color: #242842;
+	color: #FFFFFF;
+	font-size: 22px;
+}
+#pfp
+{
+	margin-left: 20px;
+	font: bold 29px monospace; 
+}
+#navbar
+{
+	overflow: hidden;
+  background-color: #591527;
+	position: static;
+	top: 0;
+  width: 100%;
+}
+#navbar a:hover 
+{
+  background-color: #34051D;
+}
+#navbar a 
+{
+	float: left;
+	color: #FFFFFF;
+	text-align: center;
+	display: block;
+	padding: 18px;
+	text-decoration: none;
+	font-family: monospace;
+	font-size: 22px;
+}
+#eduXP
+{
+	overflow: auto;
+	width: 100%;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 50px;
+	margin-left: 20px;
+}
+#eduXP h3
+{
+	margin-bottom: 15px;
+	font: bold 29px monospace; 
+}
+#eduXP p
+{
+	font: 25px monospace;
+	margin-bottom: 10px;	
+}
+#eduXP figure
+{
+	float: left;
+	font: 16px Monospace;
+}
+#origin
+{
+	overflow: auto;
+	width: 100%;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+#origin h3
+{
+	margin-bottom: 15px;
+	font: bold 29px monospace;
+}
+#origin p
+{
+	font: 25px monospace;
+	margin-bottom: 10px;
+}
+#gallery1
+{
+	display: flex;
+  justify-content: center;
+}
+#gallery1 figure
+{
+	height: 398px;
+  width: 600px;
+}
+#gallery1 figcaption
+{
+	font: 18px monospace;
+}
+#gallery2
+{
+	margin-top: 60px;
+	display: flex;
+  justify-content: center;
+}
+#gallery2 figure
+{
+	height: 398px;
+  width: 600px;
+}
+#gallery2 figcaption
+{
+	font: 18px monospace;
+}
+#hobby
+{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 20px;
+	font: 25px monospace;
+}
+#hobby h3
+{
+font: bold 29px monospace;
+}
+#hobby li
+{
+	list-style: square inside;
+}

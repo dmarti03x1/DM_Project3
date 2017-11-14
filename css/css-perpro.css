@@ -1,0 +1,88 @@
+#navbar
+{
+	overflow: hidden;
+  background-color: #591527;
+	position: static;
+	top: 0;
+  width: 100%;
+  margin-bottom: 10px;
+}
+#navbar a:hover 
+{
+  background-color: #34051D;
+}
+#navbar a 
+{
+	float: left;
+	color: #FFFFFF;
+	text-align: center;
+	display: block;
+	padding: 18px;
+	text-decoration: none;
+	font-family: monospace;
+	font-size: 22px;
+}
+#portfolio
+{
+	background-color: #242842;
+	color: #FFFFFF;
+}
+#pc h1
+{
+	margin-top: 50px;
+	margin-left: 20px;
+	margin-bottom: 15px;
+	font: bold 29px monospace; 
+}
+#pc p
+{
+	margin-left: 10px;
+	font: 23px monospace;
+	margin-bottom: 10px;	 
+}
+#blog h2
+{
+	margin-top: 50px;
+	margin-left: 20px;
+	margin-bottom: 15px;
+	font: bold 29px monospace; 
+}
+#blog p
+{
+	margin-left: 10px;
+	font: 23px monospace;
+	margin-bottom: 10px;	 
+}
+#games h3
+{
+	margin-top: 50px;
+	margin-left: 20px;
+	margin-bottom: 15px;
+	font: bold 29px monospace; 
+}
+#games p
+{
+	margin-left: 10px;
+	font: 23px monospace;
+	margin-bottom: 10px;	 
+}
+#games li
+{
+	margin-left: 10px;
+	font: 23px monospace;
+	margin-bottom: 10px;
+	list-style: square inside;	
+}
+#misc h3
+{
+	margin-top: 50px;
+	margin-left: 20px;
+	margin-bottom: 15px;
+	font: bold 29px monospace; 
+}
+#misc p
+{
+	margin-left: 10px;
+	font: 23px monospace;
+	margin-bottom: 10px;	 
+}

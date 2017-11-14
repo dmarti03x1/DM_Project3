@@ -1,0 +1,70 @@
+#navbar
+{
+	overflow: hidden;
+    background-color: #591527;
+    position: fixed;
+		top: 0;
+    width: 100%;
+    margin-bottom: 10px;
+}
+#navbar a:hover 
+{
+    background-color: #34051D;
+}
+#navbar a 
+{
+	float: left;
+	color: #FFFFFF;
+	text-align: center;
+	display: block;
+	padding: 18px;
+	text-decoration: none;
+	font-family: monospace;
+	font-size: 22px;
+}
+#mays
+{
+	margin-top: 70px;
+	background-color: #1D1C28;
+	color: #FFFFFF;
+}
+#mays h1
+{
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 26px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+#mays h2
+{
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 26px;
+	margin-left: 20px;
+}
+#mays p
+{
+	margin-top: 20px;
+	margin-left: 20px;
+	font-family: "Arial", Gadget, sans-serif;
+	font-size: 26px;
+}
+#anime
+{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+#phil
+{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+#essay
+{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+#wall
+{
+	margin-top: 20px;
+	margin-left: 20px;
+}
