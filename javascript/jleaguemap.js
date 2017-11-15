@@ -10,6 +10,6 @@ function initMap() {
 	var marker = new google.maps.Marker({
     position: myLatLng,
     map: map,
-    icon: 'aquaman.PNG'
+    icon: 'aqualad.PNG'
   });
   }
