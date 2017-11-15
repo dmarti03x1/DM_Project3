@@ -6,4 +6,10 @@ function initMap() {
   zoom: 12,
   center: myLatLng
   });
+	
+	var marker = new google.maps.Marker({
+    position: myLatLng,
+    map: map,
+    icon: 'aqualad.PNG'
+  });
   }
