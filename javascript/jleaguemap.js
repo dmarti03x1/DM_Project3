@@ -15,36 +15,36 @@ function initMap() {
 	var marker = new google.maps.Marker({
     position: myLatLng,
     map: map,
-    icon: 'aqualad.PNG'
+    icon: 'aqualad.png'
   });
 	
 	var marker = new google.maps.Marker({
     position: myLatLng2,
     map: map,
-    icon: 'thebats.PNG'
+    icon: 'thebats.png'
   });
 	
 	var marker = new google.maps.Marker({
     position: myLatLng3,
     map: map,
-    icon: 'amazonia.PNG'
+    icon: 'amazonia.png'
   });
 	
 	var marker = new google.maps.Marker({
     position: myLatLng4,
     map: map,
-    icon: 'adobe.PNG'
+    icon: 'adobe.png'
   });
 	
 	var marker = new google.maps.Marker({
     position: myLatLng5,
     map: map,
-    icon: 'robet.PNG'
+    icon: 'robet.png'
   });
 	
 	var marker = new google.maps.Marker({
     position: myLatLng6,
     map: map,
-    icon: 'soups.PNG'
+    icon: 'soups.png'
   });
   }
