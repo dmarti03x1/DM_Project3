@@ -73,10 +73,11 @@
 	margin-bottom: 10px;
 	list-style: square inside;	
 }
-#jleague p
+#jleague h1
 {
-	
+	font: bold 30px monospace;
 	text-align: center;
+	
 }
 #map
 {
