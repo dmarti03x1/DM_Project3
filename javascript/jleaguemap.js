@@ -41,4 +41,10 @@ function initMap() {
     map: map,
     icon: 'robet.PNG'
   });
+	
+	var marker = new google.maps.Marker({
+    position: myLatLng6,
+    map: map,
+    icon: 'soups.PNG'
+  });
   }
