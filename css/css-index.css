@@ -25,8 +25,6 @@
 	color: #FFFFFF;
 	padding: 22px;
 	text-decoration: none;
-	
-
 }
 #navbar a:hover 
 {
@@ -118,4 +116,69 @@ font: bold 29px monospace;
 #hobby li
 {
 	list-style: square inside;
+}
+/* perpro css BEGINS*/
+#portfolio
+{
+	background-color: #242842;
+	color: #FFFFFF;
+}
+#pc h1
+{
+	margin-top: 50px;
+	margin-left: 20px;
+	margin-bottom: 15px;
+	font: bold 29px monospace; 
+}
+#pc p
+{
+	margin-left: 10px;
+	font: 23px monospace;
+	margin-bottom: 10px;	 
+}
+#blog h2
+{
+	margin-top: 50px;
+	margin-left: 20px;
+	margin-bottom: 15px;
+	font: bold 29px monospace; 
+}
+#blog p
+{
+	margin-left: 10px;
+	font: 23px monospace;
+	margin-bottom: 10px;	 
+}
+#games h3
+{
+	margin-top: 50px;
+	margin-left: 20px;
+	margin-bottom: 15px;
+	font: bold 29px monospace; 
+}
+#games p
+{
+	margin-left: 10px;
+	font: 23px monospace;
+	margin-bottom: 10px;	 
+}
+#games li
+{
+	margin-left: 10px;
+	font: 23px monospace;
+	margin-bottom: 10px;
+	list-style: square inside;	
+}
+#misc h3
+{
+	margin-top: 50px;
+	margin-left: 20px;
+	margin-bottom: 15px;
+	font: bold 29px monospace; 
+}
+#misc p
+{
+	margin-left: 10px;
+	font: 23px monospace;
+	margin-bottom: 10px;	 
 }
