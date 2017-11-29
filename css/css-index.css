@@ -14,7 +14,7 @@
 	text-align: center;
 	background-color: #591527;
 	top: 0;
-  
+  font: bold 29px monospace;
 }
 #navbar li
 {
@@ -23,12 +23,10 @@
 #navbar a 
 {
 	color: #FFFFFF;
-
-	
 	padding: 18px;
 	text-decoration: none;
 	font-family: monospace;
-	font-size: 22px;
+	
 }
 #navbar a:hover 
 {
