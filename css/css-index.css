@@ -12,19 +12,19 @@
 #navbar
 {
 	text-align: center;
-	overflow: hidden;
-  background-color: #591527;
-	position: static;
+	background-color: #591527;
 	top: 0;
-  width: 100%;
+  
 }
-
+#navbar li
+{
+	display:inline;
+}
 #navbar a 
 {
-	
 	color: #FFFFFF;
-	text-align: center;
-	display: block;
+
+	
 	padding: 18px;
 	text-decoration: none;
 	font-family: monospace;
